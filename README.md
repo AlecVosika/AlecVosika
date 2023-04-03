@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alecvosika&label=Profile%20views&color=0e75b6&style=flat" alt="alecvosika" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alecvosika" alt="alecvosika" /></a> </p>
-
 - 🔭 I’m currently working on [SplitFlap-Board](https://github.com/AlecVosika/SplitFlap-Board)
 
 - 🌱 I’m currently learning **Android App Development**
