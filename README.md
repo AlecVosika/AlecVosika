@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alec Vosika</h1>
+<h1 align="center">Alec Vosika</h1>
 <h3 align="center">A passionate Software Developer from Minnesota</h3>
 
 - 🔭 I’m currently working on [SplitFlap-Board](https://github.com/AlecVosika/SplitFlap-Board)
