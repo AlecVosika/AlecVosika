@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python programming**
 
-- 📫 How to reach me **alecvosika@comcast.net**
+- 📫 How to reach me **alecdanielvosika@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
