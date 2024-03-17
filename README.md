@@ -1,7 +1,7 @@
 <h1 align="center">Alec Vosika</h1>
 <h3 align="center">A passionate Software Developer from Minnesota</h3>
 
-- 🔭 I’m currently working on [EveLocalPlayerTracker](https://github.com/AlecVosika/SplitFlap-Board](https://github.com/AlecVosika/EveLocalPlayerTracker)
+- 🔭 I’m currently working on [EveLocalPlayerTracker](https://github.com/AlecVosika/EveLocalPlayerTracker)
 
 - 🌱 I’m currently learning **Android App Development**
 
